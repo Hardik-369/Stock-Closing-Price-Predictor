@@ -1,1 +1,1 @@
-# Stock-Market-Closing-Price-Predictor
+# Stock-Closing-Price-Predictor
